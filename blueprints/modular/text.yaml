@@ -1,0 +1,24 @@
+title: Text
+'@extends':
+  type: default
+
+form:
+  fields:
+    tabs:
+      type: tabs
+      active: 1
+      fields:
+        content:
+          type: tab
+          title: PLUGIN_ADMIN.CONTENT
+          fields:
+            header.text_alignment:
+              type: radio
+              default: left
+              label: Text Alignment
+              help: Alignment of the text-body
+              options:
+                left: Left
+                center: Center
+                right: Right
+
