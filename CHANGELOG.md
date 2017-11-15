@@ -1,3 +1,25 @@
+# v1.3.0
+## 09/11/2017
+
+1. [](#improved)
+    * Added ability to select gallery's full image via image dropdown list
+    * Removed gallery's thumbnail image
+    * Added 2 options for gallery thumbnail's max width and max height
+    * Gallery's thumbnail image is automatically resized from full image based on defined max width and max height values
+
+# v1.2.0
+## 05/11/2017
+
+1. [](#improved)
+    * Added ability to select image in page form
+
+# v1.1.0
+## 05/11/2017
+
+1. [](#improved)
+    * Added error template and ability to upload background image for error page
+    * Added ability to select favicon
+
 # v1.0.4
 ## 09/07/2017
 
